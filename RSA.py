@@ -48,9 +48,9 @@ if m >= N:
     print("m needs to be less than N.")
     exit()
 
-print(f'(the message is m = {m})')
+#print(f'(the message is m = {m})')
 
-print('So realistically, you will send "c", which is equal to m^e (mod N)')
+#print('So realistically, you will send "c", which is equal to m^e (mod N)')
 
 #Creating the "password"
 #we set ye = 1 mod(code), and solve for y
